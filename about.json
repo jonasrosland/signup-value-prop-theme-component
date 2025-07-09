@@ -2,12 +2,7 @@
   "name": "signup-value-prop-theme-component",
   "about_url": "https://github.com/your-org/signup-value-prop-theme-component",
   "license_url": "https://choosealicense.com/licenses/mit/",
-  "authors": [
-    {
-      "name": "Your Name",
-      "email": "your.email@example.com"
-    }
-  ],
+  "authors": ["Your Name <your.email@example.com>"],
   "theme_version": "1.0.0",
   "minimum_discourse_version": "2.7.0",
   "maximum_discourse_version": null,
